@@ -3,6 +3,10 @@
 - Name: Xudong Han
 - Email: xudong.han@unimelb.edu.au
 
+## Week 6
+- KGE <br>
+	https://github.com/thunlp/OpenKE/tree/master/benchmarks/WN11
+
 ## Week 5
 Still working on it...
 
