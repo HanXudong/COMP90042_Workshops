@@ -1,4 +1,7 @@
 # COMP90042_Workshops
+
+## Dr. Chow helps me with preparing workshops. Thanks Winn!
+
 ## Tutor
 - Name: Xudong Han
 - Email: xudong.han@unimelb.edu.au
