@@ -6,6 +6,10 @@
 - Name: Xudong Han
 - Email: xudong.han@unimelb.edu.au
 
+## The Quality of Casual tutoring survey (QoCT)
+student survey (https://apps.eng.unimelb.edu.au/casmas/index.php?r=qoct/subjects). 
+
+
 ## Week 6
 - KGE <br>
 	https://github.com/thunlp/OpenKE/tree/master/benchmarks/WN11
