@@ -1,5 +1,5 @@
 
-# student survey (https://apps.eng.unimelb.edu.au/casmas/index.php?r=qoct/subjects). 
+### student survey (https://apps.eng.unimelb.edu.au/casmas/index.php?r=qoct/subjects). 
 
 # COMP90042_Workshops
 
@@ -12,9 +12,6 @@
 ## Week 6
 - KGE <br>
 	https://github.com/thunlp/OpenKE/tree/master/benchmarks/WN11
-
-## Week 5
-Still working on it...
 
 ## Week 4
 - Logarithmic index layout: <br>
