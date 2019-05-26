@@ -9,6 +9,11 @@
 - Name: Xudong Han
 - Email: xudong.han@unimelb.edu.au
 
+## Week 12
+![](https://upload.wikimedia.org/wikipedia/commons/6/69/EM_Clustering_of_Old_Faithful_data.gif)<br>
+EM v.s. K-means
+
+
 ## Week 6
 - KGE <br>
 	https://github.com/thunlp/OpenKE/tree/master/benchmarks/WN11
