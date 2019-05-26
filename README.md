@@ -11,6 +11,7 @@
 
 ## Week 12
 ![](https://upload.wikimedia.org/wikipedia/commons/6/69/EM_Clustering_of_Old_Faithful_data.gif)<br>
+image from Wikipedia.<br>
 EM v.s. K-means
 
 
